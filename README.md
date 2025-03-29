@@ -15,13 +15,11 @@ Tech Stack
 
 -Jetpack Compose
 
--Retrofit + OkHttp (Networking)
+-Retrofit 
+
+-Recycler View
 
 -Paging 3 (Pagination)
-
--Room Database (Offline support)
-
--Hilt (Dependency Injection)
 
 -Coil (Image Loading)
 
