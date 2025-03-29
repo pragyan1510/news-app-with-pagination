@@ -10,16 +10,25 @@ Key Features
 ✅ Built with Jetpack Compose / XML
 
 Tech Stack
-Kotlin | MVVM Architecture
 
-Jetpack Compose / XML
+-Kotlin | MVVM Architecture
 
-Retrofit + OkHttp (Networking)
+-Jetpack Compose
 
-Paging 3 (Pagination)
+-Retrofit + OkHttp (Networking)
 
-Room Database (Offline support)
+-Paging 3 (Pagination)
 
-Hilt (Dependency Injection)
+-Room Database (Offline support)
 
-Coil (Image Loading)
+-Hilt (Dependency Injection)
+
+-Coil (Image Loading)
+
+
+
+https://github.com/user-attachments/assets/fed455a6-a333-4e80-8275-0e5118286595
+
+
+
+
